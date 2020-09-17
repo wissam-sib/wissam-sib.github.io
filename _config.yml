@@ -83,8 +83,8 @@ author:
   name             : "Wissam Siblini, PhD"
   avatar           : "photo.jpg"
   bio              : "Hi, I am Wissam, I am a researcher in Machine Learning. I am interested in a broad range of subjects such as Natural Language Processing, Fraud Detection, Extreme Multi-Label Classification."
-  location         : "France"
-  employer         : "Worldline"
+  location         : 
+  employer         : "Worldline, France"
   pubmed           : 
   googlescholar    : "https://scholar.google.fr/citations?user=vfEDkVIAAAAJ"
   email            : "wissam.siblini@univ-nantes.fr"
