@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Wissam Siblini, PhD"
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   bio              : "Hi, I am Wissam, I am a researcher in Machine Learning. I am interested in a broad range of subjects such as Natural Language Processing, Fraud Detection, Extreme Multi-Label Classification."
   location         : "France"
   employer         : "Worldline"
