@@ -13,9 +13,9 @@ After obtaining a Master of Engineering Degree from Ecole Centrale de Nantes (Fr
 ## Research and Development 
 
 All in all, I have been working in Research and Developement for large companies since 2012:
-* At Worldline Lyon (France) from 2018 to today, as a AI/ML researcher. I do research on several ML-related topics, I supervise interns and PhD candidate within the company or through academic partnerships (Hubert Curien Laboratory, ULB, University of Passau, ...). 
-* At Orange Labs Lannion (France) from 2015 to 2018, as a PhD candidate and R&D engineer. I studied extreme multi-label classification and its application to natural language processing problems.
-* At Michelin in Clermont-Ferrand (France), from 2012 to 2015, as an aspiring R&D engineer (in parallel of my Master of Engineering at Ecole Centrale). I studied the modeling of materials behavior and numerical simulation. 
+* At [Worldline](https://worldline.com/) Lyon (France) from 2018 to today, as a AI/ML researcher. I do research on several ML-related topics, I supervise interns and PhD candidate within the company or through academic partnerships (Hubert Curien Laboratory, ULB, University of Passau, ...). 
+* At [Orange Labs](https://en.wikipedia.org/wiki/Orange_S.A.) Lannion (France) from 2015 to 2018, as a PhD candidate and R&D engineer. I studied extreme multi-label classification and its application to natural language processing problems.
+* At [Michelin](https://en.wikipedia.org/wiki/Michelin) in Clermont-Ferrand (France), from 2012 to 2015, as an aspiring R&D engineer (in parallel of my Master of Engineering at Ecole Centrale). I studied the modeling of materials behavior and numerical simulation. 
 
 ## Research activites
 
